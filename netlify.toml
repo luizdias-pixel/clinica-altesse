@@ -1,0 +1,4 @@
+# Configuração do Netlify: publica apenas a vitrine estática (veja o README).
+[build]
+  command = "sh netlify-build.sh"
+  publish = "dist"

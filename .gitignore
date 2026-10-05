@@ -1,0 +1,13 @@
+# Senha do banco: nunca suba para o GitHub
+config/config.php
+
+# Pasta gerada no deploy do Netlify
+dist/
+
+# Arquivos do sistema e do editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+node_modules/
